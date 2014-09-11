@@ -1,8 +1,13 @@
-body {animation-delay: 
-    background-color: red;
-    
+body { 
+  
+
+    background-size: cover;
+    color: gold;
+    background-image: url('http://static1.gamespot.com/uploads/original/123/1239113/2607629-twitch.jpg');
 } 
-    nav a {
+
+
+nav a {
         color:red; 
     }
    
@@ -13,4 +18,26 @@ img {
     height:auto;
     }
     
+
+    h1 {
+        border-bottom: 2px dashed black;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 50px;
+        margin-top: 50px;
+        margin-left: 50px;
+        margin-right: 950px;
+    }
+ 
+    
+   #bodyprojects { 
+        background-image: url("http://static1.gamespot.com/uploads/original/123/1239113/2607629-twitch.jpg"); 
+        background-repeat: round; 
+        background: 1000px;
+background-size: 1000px auto;
+}
+            
+#current-link{
+       text-decoration: none;
+}            
 
